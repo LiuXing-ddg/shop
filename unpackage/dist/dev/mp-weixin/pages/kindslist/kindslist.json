@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "类别列表",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "uni-drawer": "/components/uni-drawer/uni-drawer",
+    "goodbox": "/components/goodbox/goodbox"
+  }
+}

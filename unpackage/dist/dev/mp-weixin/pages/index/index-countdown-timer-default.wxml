@@ -1,0 +1,1 @@
+<view class="case"><view class="custom"><view>{{$root.m0}}</view><view>:</view><view>{{$root.m1}}</view><view>:</view><view>{{$root.m2}}</view></view></view>

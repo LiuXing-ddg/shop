@@ -1,0 +1,67 @@
+
+.suggest{
+	background: #fff;
+	border-top: 1px solid #E7E7E7;
+	margin-bottom: 10px;
+}
+.textarea{
+	padding: 20px;
+	/* font-size: 12px; */
+}
+.content {
+	/* width: 100%; */
+	padding: 10px 20px;
+	background: #fff;
+	border-bottom: 1px solid #EBEBEB;
+}
+.content-con {
+	width: 100%;
+	background: #fff;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-align-content: center;
+	        align-content: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.con-lf {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.con-lf text {
+	font-size: 12px
+}
+.con-rg {
+	color: #ccc;
+	font-size: 12px;
+}
+.faceback {
+	width: 20px;
+	height: 20px;
+	padding-right: 20px;
+}
+.tip-info{
+	padding: 20px;
+	padding-top: 10px;
+	font-size: 10px;
+	color: #ccc;
+}
+.computeNum{
+	color: #ccc;
+	float: right;
+	padding-right:10px;
+	font-size: 14px;
+}
+.computeNum :after{
+	overflow: hidden;
+}
+

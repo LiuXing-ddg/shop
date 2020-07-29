@@ -1,0 +1,1 @@
+<view class="qw"><sharebox vue-id="11d78538-1" bind:__l="__l"></sharebox><view class="commentinfo"><view class="name">评论</view><view class="commentinfo"><block wx:for="{{1}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><block><commentinfo vue-id="{{'11d78538-2-'+__i0__}}" bind:__l="__l"></commentinfo></block></block></view></view></view>

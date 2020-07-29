@@ -1,0 +1,1 @@
+<view class="goodlist"><view class="list"><goodbox vue-id="64a4a654-1" bind:__l="__l"></goodbox><goodbox vue-id="64a4a654-2" bind:__l="__l"></goodbox><goodbox vue-id="64a4a654-3" bind:__l="__l"></goodbox><goodbox vue-id="64a4a654-4" bind:__l="__l"></goodbox></view></view>

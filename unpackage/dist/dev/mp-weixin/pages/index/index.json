@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "countdown-timer": "/components/countdown-timer/countdown-timer",
+    "goodbox": "/components/goodbox/goodbox",
+    "index-countdown-timer-default": "/pages/index/index-countdown-timer-default"
+  }
+}

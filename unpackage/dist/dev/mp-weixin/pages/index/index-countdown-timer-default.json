@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "index-countdown-timer-default": "/pages/index/index-countdown-timer-default"
+  }
+}

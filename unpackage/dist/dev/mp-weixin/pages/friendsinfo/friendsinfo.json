@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "朋友圈详情",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "sharebox": "/components/sharebox/sharebox",
+    "commentinfo": "/components/commentinfo/commentinfo"
+  }
+}
